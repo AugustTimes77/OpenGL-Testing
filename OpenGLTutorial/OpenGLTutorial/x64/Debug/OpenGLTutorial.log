@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Development\OpenGL\FirstProj\OpenGLTutorial\OpenGLTutorial\Main.cpp(74,63): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+  OpenGLTutorial.vcxproj -> C:\Development\OpenGL\FirstProj\OpenGLTutorial\x64\Debug\OpenGLTutorial.exe
